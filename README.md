@@ -44,7 +44,12 @@ We are primarily based in ESA 3.29 of the Sports Arena. Please note that this is
 # Lab member expectations and responsibilities
 ## Everyone
 ### Big picture
--Do work that you are proud of. 
+<ul>
+  <li>Do work that you are proud of.</li>
+  <li>Tea</li>
+  <li>Milk</li>
+</ul>
+- 
 -Do work that others will care about.
 -Do work that does good.
 -Double-check your work. Being a little obsessive is essential to good science.
