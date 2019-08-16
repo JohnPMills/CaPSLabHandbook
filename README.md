@@ -225,9 +225,8 @@ My OSF project components typically look something like this:
  - This typically contains all your aggregated data. Most of what I do is anonymous at source and can be included. Identifiable documents (e.g., with a name and signature) should not.
 - `Analyses`
  - This typically contains the scripts from your data analyses. Reviewers should be able to reproduce what you have done. Please use the wiki to describe your process where required.
-- 'Post-Data Report'
+- `Post-Data Report`
  - This is typically the completed manuscript that you have preprinted/submitted for publication. All revisions should be stored in this folder too and the wiki utilised to explain changes.
-
 
 ## Archiving inactive datasets
 Before you leave the lab, you will be required to document and archive any dataset that you have collected. I will review the dataset with you before you leave. [To add: information about where to archive data]. 
