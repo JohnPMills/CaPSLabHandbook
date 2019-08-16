@@ -237,9 +237,11 @@ Not only is data-sharing the right thing to do, we are actually required to do s
 
 # Funding
 Funding for the lab comes from:
- - World Anti-Doping Agency
- - British Academy
- - Leverhulme
+ <ul>
+ <li>World Anti-Doping Agency</li>
+ <li>British Academy</li>
+ <li>Leverhulme</li>
+ </ul>
 
 ## WADA funding notes
 When sharing information regarding research funded by WADA, it *must* include the following statement 'This project has been carried out with the support of the World Anti-Doping Agency'. This is essential for documenting that we are turning their money into research findings. We must also submit a yearly progress report describing what we have accomplished. Lab members involved in the research will be asked to contribute to the progress report.
@@ -256,7 +258,6 @@ In addition to volunteering in lab, other research opportunities include:
  3. If you want to work in lab, earn money, and are eligible for work-study, there may be other paid research opportunities available.
 
 If you're an undergraduate student and you want to pursue any of these options, talk to me.
-
 
 # Recommendation letters
 Letters of recommendation are one of the many benefits of working in a research lab. I will write a letter for any student or lab member who has spent at least one year in the lab. Letters will be provided for shorter-term lab members in exceptional circumstances (e.g., new lab members who are applying for fellowships). I maintain this policy because I do not think that I can adequately evaluate someone who has been around for less than a year.
