@@ -209,9 +209,9 @@ If you need something from me by a particular deadline, please inform me as soon
 ## Storing active datasets
 In general, data will be stored in one of two places:
 - **The lab folder on our secure departmental server**
- - Data to store here: consent forms, keys to subject IDs (identifiable data ok)
+  - Data to store here: consent forms, keys to subject IDs (identifiable data ok)
 - **OSF**
- - Data to store here: aggregated datasets (no identifiable data!!!)
+  - Data to store here: aggregated datasets (no identifiable data!!!)
 
 In general, you should only store data locally on your computer when running analyses. Once finished, you should add the analyses and relevant scripts to the relevant server and delete from your computer.
 
