@@ -260,5 +260,5 @@ To request a letter of recommendation, please adhere to the deadline requirement
 TBD. Ask me some questions.
 
 # Sources
-This handbook was inspired by [similar](http://jpeelle.net/peellelab_manual.pdf) [handbooks](https://github.com/memobc/memolab-manual) and in some places [e.g., here](http://ivory.idyll.org/lab/coc.html) I have adapted or reproduced content verbatim. The contents of this handbook and of those I have adapted or reproduced is licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/). Thanks are given to those scholars for laying the foundations and making the production of this handbook a much simpler task.
+This handbook was inspired by [similar](http://jpeelle.net/peellelab_manual.pdf) [handbooks](https://github.com/memobc/memolab-manual) and in some places [(e.g., here)](http://ivory.idyll.org/lab/coc.html) I have adapted or reproduced content verbatim. The contents of this handbook and of those I have adapted or reproduced is licensed under a [CC Attribution 4.0 license](http://creativecommons.org/licenses/by/4.0/). Thanks are given to those scholars for laying the foundations and making the production of this handbook a much simpler task.
 
