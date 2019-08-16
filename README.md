@@ -1,7 +1,7 @@
 # Table of Contents
 - [Introduction](#introduction)
  - [location](#Location)
-- [Lab member expectations & responsibilities](#lab-member-expectations-and-responsibilities)
+- [Lab member expectations and responsibilities](#lab-member-expectations-and-responsibilities)
  - [Everyone](#everyone)
  - [PhD candidates](#phd-candidates)
  - [M-Level students](#M-Level-students)
