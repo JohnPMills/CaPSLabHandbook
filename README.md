@@ -46,58 +46,61 @@ We are primarily based in ESA 3.29 of the Sports Arena. Please note that this is
 ### Big picture
 <ul>
   <li>Do work that you are proud of.</li>
-  <li>Tea</li>
-  <li>Milk</li>
+  <li>Do work that others will care about.</li>
+  <li>Do work that does good.</li>
+  <li>Double-check your work. Being a little obsessive is essential to good science.</li>
+  <li>Be supportive of your lab mates. We are a team.</li>
+  <li>Work independently when you can, ask for help when you need it.</li>
+  <li>Share your knowledge. Mentorship can take many forms.</li>
+  <li>Respect each others' strengths, weaknesses, differences, and beliefs.</li>
+  <li>Science is a marathon, not a sprint. Take personal time/ vacation when you need it and cultivate a life outside of the lab. Respect that other lab members also have a life outside of lab.</li>
+  <li>Communicate openly and respectfully with other members of the lab.</li>
+  <li>If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with me. If you have an issue with me, please reach out to Dr Jo Barton as Senior Tutor.</li>
+  <li>Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See [Hours](#hours).</li>
 </ul>
-- 
--Do work that others will care about.
--Do work that does good.
--Double-check your work. Being a little obsessive is essential to good science.
--Be supportive of your lab mates. We are a team.
--Work independently when you can, ask for help when you need it.
--Share your knowledge. Mentorship can take many forms.
--Respect each others' strengths, weaknesses, differences, and beliefs.
--Science is a marathon, not a sprint. Take personal time/ vacation when you need it and cultivate a life outside of the lab. Respect that other lab members also have a life outside of lab.
--Communicate openly and respectfully with other members of the lab.
--If you have an issue with another lab member that cannot be solved by talking with them about it, please talk with me. If you have an issue with me, please reach out to Dr Jo Barton as Senior Tutor.
--Academia may feel different from other types of jobs, but it is still a job. You should treat coming into lab with the same respect that you would treat any other position. See Hours.
 
 ### Small picture
--Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.
--Notify the lab manager or me if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.
--You are not expected to come into lab on staff holidays. If you are being paid, then you are expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time).
--Keep shared spaces tidy.
--The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work. 	
+<ul>
+<li>Do not come into the lab if you are sick. Stay home and get healthy, and don't risk getting others sick.</li>
+<li>Notify me if you will be out, either due to illness or vacation. Make a note on the lab calendar. If you are sick and you had experiments or meetings scheduled that day, notify your participants or collaborators and reschedule.</li>
+<li>You are not expected to come into lab on staff holidays. If you are being paid, then you are expected to come into lab during university breaks (except for staff holidays or if you're taking your paid vacation time).</li>
+<li>Keep shared spaces tidy.</li>
+<li>The dress code in academia is generally casual. My only request is that you look semi-professional when interacting with participants and when presenting your work.</li> 	
+</ul>
 
 ### PhD candidates
 All of the above, plus you will be expected to:
--Develop your own independent line of research. Ideally, your dissertation will consist of at least three experimental chapters that form a coherent thesis.
--Mentor undergraduate and graduate students on their research projects, when asked or when appropriate.
--Apply for external funding. Applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.
--Wait to apply for jobs (academic or industry) until you have completed the data collection component of your Ph.D.
--If you are planning to pursue a non-academic career, we can discuss ways of making sure that you are getting the training you need, while still doing excellent research. 
--Be direct with me and challenge me and the arguments I make. Don’t take my being critical at times of work as an ad hominem attack.  
--Set high goals that you strive to exceed. I will push you to go beyond what you previously thought possible, but also support you all the way.
-
+<ul>
+ <li>Develop your own independent line of research. Ideally, your dissertation will consist of at least three experimental chapters that form a coherent thesis.</li>
+<li>Mentor undergraduate and graduate students on their research projects, when asked or when appropriate.</li>
+<li>Apply for external funding. Applying for external funding is a valuable experience and, if awarded, it will release those dedicated funds for other purposes.</li>
+<li>Wait to apply for jobs (academic or industry) until you have completed the data collection component of your Ph.D.</li>
+<li>If you are planning to pursue a non-academic career, we can discuss ways of making sure that you are getting the training you need, while still doing excellent research. </li>
+<li>Be direct with me and challenge me and the arguments I make. Don’t take my being critical at times of work as an ad hominem attack.  
+<li>Set high goals that you strive to exceed. I will push you to go beyond what you previously thought possible, but also support you all the way.</li>
+</ul>
 
 ### M-Level students
 All of the above, plus you will be expected to:
--Develop a line of dissertation research. Ideally, your dissertation research will consist of at least two cross-sectional studies or one longitudinal intervention that can be packaged into one thesis document.
--Apply for external funding. If nothing else, this is an extremely valuable experience, and it will release you from your TA-ing responsibilities.
--Do some soul-searching as to what type of career you want to pursue (e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science, science writing or project management). We can brainstorm ways of making sure you are getting the training that you need.
--Work with a team of undergraduate students. This will speed up data collection and give you some experience with managing and mentoring a team.
--Stay up-to-date (and keep me up-to-date) on any deadlines that you need to meet to fulfil departmental requirements (see Time Management).
--Prioritise time for research. You may need to take on other work, but it should not detract from your degree. You signed up for a full-time degree and if you cannot meet the obligations that go along with full-time study, you should consider going part-time. 
+<ul>
+ <li>Develop a line of dissertation research. Ideally, your dissertation research will consist of at least two cross-sectional studies or one longitudinal intervention that can be packaged into one thesis document.</li>
+<li>Apply for external funding. If nothing else, this is an extremely valuable experience, and it will release you from your TA-ing responsibilities.</li>
+<li>Do some soul-searching as to what type of career you want to pursue (e.g., academic jobs that are research-focused or teaching-focused, non-academic jobs like data science, science writing or project management). We can brainstorm ways of making sure you are getting the training that you need.</li>
+<li>Work with a team of undergraduate students. This will speed up data collection and give you some experience with managing and mentoring a team.</li>
+<li>Stay up-to-date (and keep me up-to-date) on any deadlines that you need to meet to fulfil departmental requirements (see Time Management).</li>
+<li>Prioritise time for research. You may need to take on other work, but it should not detract from your degree. You signed up for a full-time degree and if you cannot meet the obligations that go along with full-time study, you should consider going part-time. </li>
+</ul>
 
 ### Undergraduate students
 All of the above, plus you will be expected to:
--Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).
--Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.
--Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.
--Attend and contribute to lab meetings.
--Present at one meeting during the semester.
--Write a short essay on your research topic or experiences at the end of the semester.
-
+<ul>
+ <li>Assist other lab members with data collection or analysis (typically you will be assigned to particular projects).</li>
+<li>Work with the lab manager and/or your research mentor to determine your weekly schedule. If you are not able to come in during your normal scheduled time, you must let the lab manager know.</li>
+<li>Provide extra support to the lab manager (this may include filing paperwork). If you are in lab and do not have a task to do, you should ask the lab manager or your supervisor whether there is anything you can help out with.</li>
+<li>Attend and contribute to lab meetings.</li>
+<li>Present at one meeting during the semester.</li>
+<li>Write a short essay on your research topic or experiences at the end of the semester.</li>
+</ul>
 
 # Research expectations
 ## Reproducible research
